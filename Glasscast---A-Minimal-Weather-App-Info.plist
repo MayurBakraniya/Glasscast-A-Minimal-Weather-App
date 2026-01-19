@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SUPABASE_ANON_KEY</key>
+	<string>eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNqY3l6dHZmeGpoeHBreGJyamRvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Njg3OTgwODMsImV4cCI6MjA4NDM3NDA4M30.rBhHLiBcKXd9ws3DneuMynN6cnnGotdWAIjMODw_lMM</string>
+    <key>SUPABASE_URL</key>
+    <string>https://cjcyztvfxjhxpkxbrjdo.supabase.co</string>
+	<key>WEATHER_API_KEY</key>
+	<string>1429717dd6bfc27da71917e22383050f</string>
+</dict>
+</plist>
